@@ -39,11 +39,39 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20for-Commission-0b3d91?style=for-the-badge&labelColor=0d1117" alt="Open for commission" />
-  <img src="https://img.shields.io/badge/Open%20for-Freelance-1158c7?style=for-the-badge&labelColor=0d1117" alt="Open for freelance" />
-  <img src="https://img.shields.io/badge/Open%20Source-Collaboration-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Open source collaboration" />
-  <img src="https://komarev.com/ghpvc/?username=Nekoomaruu&label=Profile%20Views&color=0d1117&style=for-the-badge" alt="Profile views" />
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Status-Available_for_Work-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb&logo=statuspage&logoColor=1f6feb" alt="Available for work" />
+  </a>
+  <img src="https://img.shields.io/badge/Response-Under_24h-0d1117?style=for-the-badge&labelColor=0d1117&color=1158c7&logo=maildotru&logoColor=1158c7" alt="Response time" />
+  <img src="https://img.shields.io/badge/Based_in-Kyoto,_JP-0d1117?style=for-the-badge&labelColor=0d1117&color=0b3d91&logo=googlemaps&logoColor=0b3d91" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Nekoomaruu&label=Profile+Views&color=0d1117&style=for-the-badge" alt="Profile views" />
 </p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center" width="180">Commission Work</th>
+    <th align="center" width="180">Freelance / Contract</th>
+    <th align="center" width="180">Open Source</th>
+    <th align="center" width="180">Mentoring</th>
+  </tr>
+  <tr>
+    <td align="center">Open</td>
+    <td align="center">Open</td>
+    <td align="center">Always open</td>
+    <td align="center">Limited slots</td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Discord bots, Luau systems, backend tooling</sub></td>
+    <td align="center"><sub>Short to mid term projects, remote only</sub></td>
+    <td align="center"><sub>Issues, PRs, reviews, module libraries</sub></td>
+    <td align="center"><sub>Beginner Lua / Discord.js guidance</sub></td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -366,22 +394,35 @@ a good portion of that work so other developers can read it, break it, and learn
 <!-- ============================ GITHUB ANALYTICS ============================ -->
 ## GitHub Analytics
 
+<!--
+  NOTE ABOUT THE CARDS BELOW
+  The official github-readme-stats.vercel.app instance is frequently rate limited
+  (returns HTTP 503) and github-profile-trophy.vercel.app currently returns HTTP 402,
+  which is why those cards showed up as broken images.
+  The URLs below use public mirrors / maintained hosts that are working:
+    - stats + top languages : github-readme-stats-sigma-five.vercel.app
+    - streak                : streak-stats.demolab.com  (herokuapp host is dead)
+    - trophies              : github-profile-trophy-eight.vercel.app
+  If a card ever breaks again, the most reliable fix is self-hosting
+  github-readme-stats on your own free Vercel account and swapping the domain.
+-->
+
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nekoomaruu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nekoomaruu&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nekoomaruu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Nekoomaruu&hide_border=true&background=0d1117&stroke=21262d&ring=1f6feb&fire=58a6ff&currStreakLabel=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 
   <br /><br />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekoomaruu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nekoomaruu&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
 
   <br /><br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Nekoomaruu&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Nekoomaruu&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekoomaruu&theme=github-compact&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekoomaruu&theme=github-compact&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
   <br /><br />
 
@@ -397,15 +438,54 @@ a good portion of that work so other developers can read it, break it, and learn
 ---
 
 <!-- ============================ CONTACT ============================ -->
+<a id="contact"></a>
 ## Contact
 
+I keep communication simple: **Discord is the fastest way to reach me**, GitHub issues for anything
+code related, and the community server if you just want to hang around and see what I am building.
+
 <div align="center">
+
+<table>
+  <tr>
+    <th align="left">Channel</th>
+    <th align="left">Handle</th>
+    <th align="left">Best used for</th>
+  </tr>
+  <tr>
+    <td><b>Discord (DM)</b></td>
+    <td><code>neko.sql</code></td>
+    <td>Commissions, project scoping, quick questions</td>
+  </tr>
+  <tr>
+    <td><b>Community Server</b></td>
+    <td><a href="https://posronda.my.id/discord">posronda.my.id/discord</a></td>
+    <td>Support, updates, bot demos, general chat</td>
+  </tr>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Nekoomaruu">@Nekoomaruu</a></td>
+    <td>Issues, pull requests, code review</td>
+  </tr>
+  <tr>
+    <td><b>Twitter / X</b></td>
+    <td><a href="https://x.com/Nekomaru1_">@Nekomaru1_</a></td>
+    <td>Dev logs, release notes, short updates</td>
+  </tr>
+  <tr>
+    <td><b>Twitch</b></td>
+    <td><a href="https://twitch.tv/nekomarupibi">nekomarupibi</a></td>
+    <td>Live coding sessions and casual streams</td>
+  </tr>
+</table>
+
+<br />
 
   <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-neko.sql-0d1117?style=for-the-badge&logo=discord&logoColor=1f6feb" alt="Discord" />
   </a>
   <a href="https://posronda.my.id/discord">
-    <img src="https://img.shields.io/badge/Community-Join%20Server-0d1117?style=for-the-badge&logo=discord&logoColor=1f6feb" alt="Community server" />
+    <img src="https://img.shields.io/badge/Community-Join_Server-0d1117?style=for-the-badge&logo=discord&logoColor=1f6feb" alt="Community server" />
   </a>
   <a href="https://x.com/Nekomaru1_">
     <img src="https://img.shields.io/badge/Twitter%2FX-Nekomaru1__-0d1117?style=for-the-badge&logo=x&logoColor=1f6feb" alt="Twitter / X" />
@@ -419,10 +499,36 @@ a good portion of that work so other developers can read it, break it, and learn
 
 </div>
 
+### Before You Message Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Helpful to include</b>
+      <ul>
+        <li>What you are building and who it is for</li>
+        <li>Platform: Roblox, Discord, or a web backend</li>
+        <li>Deadline and rough budget range</li>
+        <li>Any existing code or repository</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>Things I do not take on</b>
+      <ul>
+        <li>Exploits, cheats, or anything against platform ToS</li>
+        <li>Account selling, botting, or spam automation</li>
+        <li>Unpaid "exposure" work</li>
+        <li>Projects with no clear scope at all</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <i>Open for commission, freelance, and open source collaboration — feel free to reach out.</i>
 </p>
 
 <div align="center">
   <sub>Any security or exploit research mentioned in my work is strictly for educational and defensive purposes.</sub>
+
 </div>
