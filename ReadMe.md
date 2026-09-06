@@ -252,7 +252,7 @@ a good portion of that work so other developers can read it, break it, and learn
 -->
 <div align="center">
   <a href="https://github.com/Nekoomaruu/ChupiGPT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nekoomaruu&repo=ChupiGPT&theme=onedark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="ChupiGPT pinned repo" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nekoomaruu&repo=ChupiGpt&theme=onedark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="ChupiGPT pinned repo" />
   </a>
 </div>
 
