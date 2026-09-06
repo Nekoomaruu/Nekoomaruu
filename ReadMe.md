@@ -243,39 +243,32 @@ a good portion of that work so other developers can read it, break it, and learn
 
 ---
 
-<!-- ============================ FEATURED PROJECT ============================ -->
-## Featured Project
+<!-- ============================ PINNED PROJECT ============================ -->
+## Pinned Project
 
+<!--
+  This renders a live GitHub pin card for the repo (stars, forks, language, description
+  pulled directly from GitHub). Update the repo= param below if the repo name differs.
+-->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <h3>ChupiGPT</h3>
-        <p>
-          <img src="https://img.shields.io/badge/AI%20Assistant-0d1117?style=flat-square&logo=openai&logoColor=1f6feb" alt="AI assistant" />
-          <img src="https://img.shields.io/badge/Discord%20Bot-0d1117?style=flat-square&logo=discord&logoColor=1f6feb" alt="Discord bot" />
-          <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=1f6feb" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=1f6feb" alt="Automation" />
-        </p>
-        <p>
-          A personal AI assistant built for Discord communities: conversational help,
-          moderation support, everyday utilities, and automation in a single bot.
-        </p>
-        <p align="left">
-          <b>Highlights</b><br />
-          • Context-aware conversations scoped per channel and per user<br />
-          • Slash-command first, with permission-aware moderation helpers<br />
-          • Modular command loader so new features drop in without redeploy pain<br />
-          • Structured logging and graceful failure handling for long uptime
-        </p>
-        <!-- Replace with the real repository URL once it is public -->
-        <a href="https://github.com/Nekoomaruu">
-          <img src="https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Nekoomaruu/ChupiGPT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nekoomaruu&repo=ChupiGPT&theme=onedark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="ChupiGPT pinned repo" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Assistant-0d1117?style=flat-square&logo=openai&logoColor=1f6feb" alt="AI assistant" />
+  <img src="https://img.shields.io/badge/Discord%20Bot-0d1117?style=flat-square&logo=discord&logoColor=1f6feb" alt="Discord bot" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=1f6feb" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=1f6feb" alt="Automation" />
+</p>
+
+**ChupiGPT** — a personal AI assistant built for Discord communities: conversational help, moderation support, everyday utilities, and automation in a single bot.
+
+- Context-aware conversations scoped per channel and per user
+- Slash-command first, with permission-aware moderation helpers
+- Modular command loader so new features drop in without redeploy pain
+- Structured logging and graceful failure handling for long uptime
 
 ---
 
@@ -371,16 +364,6 @@ a good portion of that work so other developers can read it, break it, and learn
 </p>
 
 ---
-
-<!-- ============================ GOALS ============================ -->
-## Goals for 2026
-
-- [ ] Release **ChupiGPT** publicly as open source
-- [ ] Ship a complete bot suite for my community
-- [ ] Publish a Luau module library other developers actually use
-- [ ] Rewrite my core services fully in TypeScript
-- [ ] Grow the community into an active, healthy space
-- [ ] Take on more freelance and commission work
 
 ## Fun Facts
 
